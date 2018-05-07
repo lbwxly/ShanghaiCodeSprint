@@ -1,0 +1,10 @@
+bin
+obj
+output
+*.suo
+*.user
+*.bak
+*.GhostDoc.xml
+.simplicity_*
+.vs
+__pycache__
